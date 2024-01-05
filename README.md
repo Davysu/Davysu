@@ -10,8 +10,9 @@
   <img aligh = "center" alt = "Davy-python" height = "40" width = "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img aligh = "center" alt = "Davy-HTML" height = "40" width = "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img aligh = "center" alt = "Davy-CSS" height = "40" width = "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img aligh = "center" alt = "Davy-C" height = "40" width = "90" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img aligh = "center" alt = "Davy-Java" height = "40" width = "90" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img aligh = "center" alt = "Davy-SQL" height = "40" width = "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img aligh = "center" alt = "Davy-JavaScript" height = "40" width = "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img aligh = "center" alt = "Davy-PHP" height = "40" width = "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img aligh = "center" alt = "Davy-Bootstrap" height = "40" width = "90" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 
 </div> <br>
