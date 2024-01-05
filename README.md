@@ -1,6 +1,6 @@
 # Hello there!
-- 🌱 I’m currently learning Javascript
-- 😄 Pronouns: She/Her
+- 🌱 I’m currently learning Html,Css,Python and SQL
+- 😄 Pronouns: He/Him
 <div> 
   <a href = " ">  
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=Davysu&show_icons=true&&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,7 +13,7 @@
   <img aligh = "center" alt = "Davy-C" height = "40" width = "90" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img aligh = "center" alt = "Davy-Java" height = "40" width = "90" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img aligh = "center" alt = "Davy-Bootstrap" height = "40" width = "90" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  <img aligh = "right" height="150" style="border-radius:50px; alt = "Davy-Doctor" src = "https://media4.giphy.com/media/SuIyXbcCE76MbePBYm/giphy.gif?cid=790b76111c02e3eb3597a3a8f0f9f2282893d7c2f67a62bc&rid=giphy.gif&ct=g">
+
 </div> <br>
   
 <div>
