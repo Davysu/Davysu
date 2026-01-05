@@ -20,7 +20,7 @@
          height="35" alt="instagram logo" />
   </a>
 
-  <a href="https://discord.gg/#9071" target="_blank">
+  <a href="https://discord.gg/Davyson99#9071" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge"
          height="35" alt="discord logo" />
   </a>
