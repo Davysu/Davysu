@@ -30,7 +30,7 @@
          height="35" alt="gmail logo" />
   </a>
 
-  <a href="www.linkedin.com/in/davyson-oliveira" target="_blank">
+  <a href="https://www.linkedin.com/in/davyson-oliveira/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
          height="35" alt="linkedin logo" />
   </a>
